@@ -59,4 +59,25 @@ Orders Dataset is the main dataset and also has the relationship with Customers,
 - Additionally, we can view the top 10 customers with the highest sales and profits, along with their last order date and the number of orders placed.
 
 ### Switching between Dashboards
+<img align="right" width="608" alt="Switch to Customer Dashboard" src="https://github.com/Naimuddin74667/Customer_Sales_Dashboard/assets/71082094/5540f3c0-2ce8-4565-a41c-6af26ad60970">
 
+- To switch from the **Sales Dashboard to the Customer Dashboard**, simply click on either the Customer or Dashboard icon.
+
+<img align="right" width="608" alt="Switch to Sales Dashboard" src="https://github.com/Naimuddin74667/Customer_Sales_Dashboard/assets/71082094/f910ea44-e699-4d68-a0da-2c4338a96ce0">
+
+- To switch from the **Customer Dashboard to the Sales Dashboard**, simply click on either the Dashboard or Customer icon.
+
+### Apply Filters on Dashboards
+
+<img align="right" width="230" alt="Filter closed" src="https://github.com/Naimuddin74667/Customer_Sales_Dashboard/assets/71082094/12b49889-d55c-441e-8b6c-760a16053c91">
+<img align="right" width="242" alt="Filter open" src="https://github.com/Naimuddin74667/Customer_Sales_Dashboard/assets/71082094/00643449-83b2-4e8c-926b-01c306d9762c">
+
+To apply filters, click on the filter icon to open the sidebar filter. After applying the filters, click on the cross icon to close the sidebar.
+
+In the filter, you will find options to select:
+- Year
+- Category
+- Sub-category
+- Region
+- State
+- City
