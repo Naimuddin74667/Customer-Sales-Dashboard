@@ -1,6 +1,6 @@
 # Sales & Customer Dashboard
 ## Introduction
-This project contains a Tableau Dashboard to analyze and visualize sales trends and customer behaviour. The dashboard is divided into two main sections:
+This project contains a **Tableau Dashboard** to analyze and visualize sales trends and customer behaviour. The dashboard is divided into two main sections:
 ### Sales Dashboard
 This section includes visualizations that track sales performance over time, highlighting key metrics such as total sales, Total Profit, Total Quantity sales by region, Sales by Category and weekly trends.
 ### Customer Dashboard
