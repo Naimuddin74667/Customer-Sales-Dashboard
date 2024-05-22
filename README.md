@@ -1,1 +1,3 @@
-# Customer Sales Dashboard
+# Sales & Customer Dashboard
+
+## Introduction
